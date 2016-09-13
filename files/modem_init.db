@@ -39,3 +39,5 @@
 # Sony Ericsson MD400
 0fce:d0e1:MD400:	AT+CFUN=1		AT+CPIN="%s"	AT+CFUN=1	AT+CGATT=1
 
+# Prolink PSH600
+19d2:1545::							AT+CFUN=1
